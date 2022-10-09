@@ -1,0 +1,21 @@
+* {
+    font-family: cursive;
+}
+
+.navbar {
+    background-color: darkslategray;
+    padding: 5px;
+}
+
+.navbar {
+    color: white;
+}
+
+.navbar {
+    font-size: 100%;
+}
+
+.text-center {
+    text-align: center;
+    padding: 30px;
+}

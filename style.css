@@ -1,0 +1,41 @@
+* {
+    font-family: cursive;
+}
+
+.navbar {
+    background-color: rgb(168, 187, 191);
+    padding: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+a {
+    color: rgb(23, 8, 8);
+    text-decoration: none;
+}
+
+.navbar a {
+    font-size: 17px;
+    padding: 10px;
+}
+
+.btn-primary {
+    background-color: rgb(210, 205, 220);
+    color: black;
+}
+
+.btn-warning {
+    background-color: rgb(207, 192, 222);
+    color: black;
+}
+
+.btn {
+    padding: 5px 10px 5px 10px;
+    border-radius: 5%;
+}
+
+.float-right {
+    float: right;
+}
